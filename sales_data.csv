@@ -1,0 +1,16 @@
+Date,Product,Region,Quantity,Price
+2025-01-01,Pen,South,10,5
+2025-01-02,Notebook,North,5,20
+2025-01-03,Eraser,East,20,2
+2025-01-04,Pencil,West,15,3
+2025-01-05,Marker,South,7,10
+2025-02-01,Pen,North,12,5
+2025-02-02,Notebook,East,6,20
+2025-02-03,Eraser,West,18,2
+2025-02-04,Pencil,South,20,3
+2025-02-05,Marker,North,10,10
+2025-03-01,Pen,East,14,5
+2025-03-02,Notebook,South,8,20
+2025-03-03,Eraser,North,25,2
+2025-03-04,Pencil,East,10,3
+2025-03-05,Marker,West,9,10
